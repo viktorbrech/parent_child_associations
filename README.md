@@ -2,9 +2,9 @@ This script processes the included csv file line by line, creating a parent-chil
 
 It uses this endpoint: https://legacydocs.hubspot.com/docs/methods/crm-associations/associate-objects
 
-To run the script, create an ".env" text file in the same directory containing one line as follows:
+To run the script, create an ".env" text file in the same directory containing one line with your portal Hapikey as follows:
 
-HAPIKEY=f******c-2**d-4**5-9**3-7**********d
+HAPIKEY=**********
 
 Ways to improve this programme:
 
